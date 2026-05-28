@@ -60,6 +60,6 @@ I selected this topic to learn how programming can be used to simplify hospital 
 
 ## 👨‍💻 Developed By
 > 1st Semester Project
->  UNISH RIZAL
-> COLLEGE OF INFORMATION TECHNOLOGY AND ENGINEERING
+UNISH RIZAL
+COLLEGE OF INFORMATION TECHNOLOGY AND ENGINEERING
 
