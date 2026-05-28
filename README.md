@@ -54,13 +54,12 @@ I selected this topic to learn how programming can be used to simplify hospital 
 
 ## 🛠️ Technologies Used
 - **Language:** C
-- **Concepts:** Structs, Arrays, Functions, Switch Case, File I/O
+- **Concepts:** Structs, Arrays, Functions, Switch Case, etc
 
 ---
 
 ## 👨‍💻 Developed By
-> 1st Semester Project — [Your Name] | [Your College Name]
+> 1st Semester Project
+>  UNISH RIZAL
+> COLLEGE OF INFORMATION TECHNOLOGY AND ENGINEERING
 
----
-
-Just replace `[Your Name]` and `[Your College Name]` at the bottom!
