@@ -1,11 +1,10 @@
-# HOSPITAL MANAGEMENT SYSTEM
+# 🏥 PATIENT MANAGEMENT SYSTEM
 ## (Patient Details & Appointment Scheduling)
 
 ---
 
-# 1. Project Topic
-
-### Hospital Management System using C
+## 📌 Project Topic
+**Patient Management System using C**
 
 This project mainly focuses on:
 - Patient Details Management
@@ -13,14 +12,14 @@ This project mainly focuses on:
 
 ---
 
-# 2. Why I Selected This Topic & What This Project Does
-
+## 💡 Why I Selected This Topic
 Hospitals and clinics need an organized system to manage patient information and doctor appointments. Managing these records manually can be difficult, time-consuming, and may lead to errors.
 
 I selected this topic to learn how programming can be used to simplify hospital operations and manage records efficiently.
 
-## What This Project Does
-This system helps to:
+---
+
+## ⚙️ What This Project Does
 - Store patient details
 - Manage patient records
 - Schedule doctor appointments
@@ -30,54 +29,38 @@ This system helps to:
 
 ---
 
-# 3. Introduction
+## 🖥️ How to Run
 
-## What is Hospital Management System?
-
-A Hospital Management System is a software application used to manage hospital-related information digitally. This project focuses on maintaining patient records and scheduling doctor appointments.
-
-## Aim of the Project
-
-The aim of this project is to develop a simple and efficient system for managing patient details and doctor appointments using the C programming language.
-
-## Objectives
-- To store patient information properly
-- To manage appointment schedules
-- To reduce manual record keeping
-- To improve accuracy and efficiency
-- To save time in hospital management
+**Requirements:** GCC Compiler (or any C compiler)
+---
+## 📋 Features
+| Feature | Description |
+|---|---|
+| Add Patient | Enter patient details and assign a doctor |
+| View Patients | Display all registered patient records |
+| Available Doctors | View list of doctors |
+| Appointment Scheduling | Assign doctor and date during registration |
 
 ---
 
-# 4. Analysis
+## 🗂️ Project Structure
+```
+├── main.c       # Main menu and program entry point
+├── patient.c    # Patient functions and logic
+├── patient.h    # Function declarations (header file)
+```
 
-## Existing System Problems
-- Manual record management
-- Difficulty in searching patient records
-- Appointment scheduling confusion
-- Increased paperwork
-- Higher chances of human error
+---
 
-## Proposed System Advantages
-- Easy patient record management
-- Faster appointment scheduling
-- Reduced paperwork
-- Better organization
-- Improved efficiency and accuracy
+## 🛠️ Technologies Used
+- **Language:** C
+- **Concepts:** Structs, Arrays, Functions, Switch Case, File I/O
 
-## Functional Requirements
-- Add patient details
-- View patient records
-- Schedule appointments
-- View appointment schedules
-- Search patient information
+---
 
-## Non-Functional Requirements
-- User-friendly system
-- Simple interface
-- Reliable performance
-- Easy maintenance
-  ---
-## BLOCK DIAGRAM
-<img width="401" height="381" alt="Untitled Diagram drawio(1)" src="https://github.com/user-attachments/assets/ab0739c9-979d-4831-be0c-172de7e9010c" />
+## 👨‍💻 Developed By
+> 1st Semester Project — [Your Name] | [Your College Name]
 
+---
+
+Just replace `[Your Name]` and `[Your College Name]` at the bottom!
